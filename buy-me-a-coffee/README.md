@@ -23,11 +23,6 @@ My very first website that interacts with the blockchain!
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/bjuhir/buy-me-a-coffee
-cd buy-me-a-coffee
-```
-
 2. Run the following command:
 
 ```bash
